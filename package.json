@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "inquirer": "^8.2.0",
+    "mysql2": "^2.3.3"
+  },
+  "name": "challenge12",
+  "description": "AS A business owner I WANT to be able to view and manage the departments, roles, and employees in my company SO THAT I can organize and plan my business",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arbean1978/Challenge12.git"
+  },
+  "author": "arbean1978",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arbean1978/Challenge12/issues"
+  },
+  "homepage": "https://github.com/arbean1978/Challenge12#readme"
+}
