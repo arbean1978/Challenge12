@@ -44,16 +44,15 @@ So that I can organize and plan my business
 3. npm i inquirer
 4. npm i mysql
 5. npm i console.table
-6. make sure to run .sql file in mySQL workbench before running server.js so that tables are able to render correctly
-7. run node server.js
-8. make sure server.js is connected to SQL before continuing
-9. run through prompts as required 
+6. run node server.js
+7. make sure server.js is connected to SQL before continuing
+8. run through prompts as required 
 
 ## Repository
 
   - [Project Repo](https://github.com/arbean1978/Challenge12)
 
 ## Contributions
-1. ![GitHub license](https://img.shields.io/badge/Made%20by-%40EdenKhaos-orange)
-2. No front end files required.
-3. use seed.sql to create an existing table to pull sample information from to make it easier to run through the app.
+
+1. No front end files required.
+2. use seed.sql to create an existing table to pull sample information from to make it easier to run through the app.
