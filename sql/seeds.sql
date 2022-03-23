@@ -34,5 +34,3 @@ INSERT INTO employee (first_name, last_name, role_id, manager_id)
 VALUES ("Obi-Wan", "Kenobi", 2, null);
 INSERT INTO employee (first_name, last_name, role_id, manager_id)
 VALUES ("Luke", "Skywalker", 4, 7);
-INSERT INTO employee (first_name, last_name, role_id, manager_id)
-VALUES ("Han", "Solo", 1, 2);
